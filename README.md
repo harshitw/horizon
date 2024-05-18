@@ -1,3 +1,6 @@
+<img width="1363" alt="Horizon" src="https://github.com/harshitw/horizon/assets/28987897/de6a4d3c-db1b-4ea4-a2b9-be391ebc490b">
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
